@@ -33,7 +33,6 @@ public class CSVTestRunner extends Configured implements Tool {
             throw new Exception(e);
 		} finally {
 			logger.info("Quitting with execution code " + res);
-			System.exit(res);
 		}
 	}
 
