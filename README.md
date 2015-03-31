@@ -1,3 +1,5 @@
+[![Build Status](https://snap-ci.com/ashwanthkumar/hadoop2-csv/branch/master/build_image)](https://snap-ci.com/ashwanthkumar/hadoop2-csv/branch/master)
+
 # hadoop2-csv
 
 Input format for hadoop able to read multiline CSVs
