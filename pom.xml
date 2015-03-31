@@ -3,6 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>in.ashwanthkumar</groupId>
     <artifactId>hadoop2-csv</artifactId>
+    <description>Hadoop2 InputFormat for reading multiline CSV files</description>
     <version>2.0</version>
     <packaging>jar</packaging>
     <build>
