@@ -1,4 +1,4 @@
-package org.apache.hadoop.mapreduce.lib.input.test;
+package in.ashwanthkumar.hadoop2.mapreduce.lib.input.test;
 
 import java.io.IOException;
 import java.util.List;
