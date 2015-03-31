@@ -1,5 +1,4 @@
-CSVInputFormat
-==============
+# hadoop2-csv
 
 Input format for hadoop able to read multiline CSVs
 
@@ -11,8 +10,7 @@ Zip files are supported.
 
 More ideas to improve this are welcome.
 
-Example:
---------------------------------------------------------------------------------
+## Example:
 If we read this CSV (note that line 2 is multiline):
 
 	Joe Demo,"2 Demo Street,
@@ -44,3 +42,9 @@ The output is as follows:
 	==> val[0] = Jack Example
 	==> val[1] = 1 Example Street, Exampleville, Australia. 261
 	==> val[2] = jack@example.com
+
+## License
+https://www.apache.org/licenses/LICENSE-2.0.html
+
+## Credits
+Personal fork of [CSVInputFormat](https://github.com/mvallebr/CSVInputFormat), but built against hadoop2. Please report the issues to the original fork.
