@@ -4,6 +4,7 @@
     <groupId>in.ashwanthkumar</groupId>
     <artifactId>hadoop2-csv</artifactId>
     <description>Hadoop2 InputFormat for reading multiline CSV files</description>
+    <name>CSVInputFormat</name>
     <version>2.0</version>
     <packaging>jar</packaging>
     <build>
